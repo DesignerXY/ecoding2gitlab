@@ -3,11 +3,11 @@
 
 # 2. 用法
 ## 2.1. 替换脚本中一下内容： 
-ecoding_username=ecoding用户名
-ecoding_passwd=ecoding密码
-git_username=gitlab用户名
-git_passwd=gitlab密码
-git_private_token=gitlab授权码
+- ecoding_username=ecoding用户名
+- ecoding_passwd=ecoding密码
+- git_username=gitlab用户名
+- git_passwd=gitlab密码
+- git_private_token=gitlab授权码
 
 ## 2.2. 特别说明
 由于时间关系，e-coding 采用的是从网页拿接口的方式，还需自行获取后替换
